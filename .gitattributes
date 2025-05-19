@@ -1,0 +1,34 @@
+data/stage_2/retrieval_sft_0captipn.jsonl filter=lfs diff=lfs merge=lfs -text
+./data/stage_2/retrieval_sft_0captipn.jsonl
+data/stage_2/retrieval_sft_nocaptipn.jsonl filter=lfs diff=lfs merge=lfs -text
+./data/stage_2/retrieval_sft_nocaptipn.jsonl
+data/stage_2/retrieval_grpo_9captipn.jsonl filter=lfs diff=lfs merge=lfs -text
+./data/stage_2/retrieval_grpo_9captipn.jsonl
+data/stage_2/retrieval_sft_9captipn.jsonl filter=lfs diff=lfs merge=lfs -text
+./data/stage_2/retrieval_sft_9captipn.jsonl
+data/stage_2/retrieval_grpo_0captipn.jsonl filter=lfs diff=lfs merge=lfs -text
+./data/stage_2/retrieval_grpo_0captipn.jsonl
+data/stage_2/retrieval_grpo_nocaptipn.jsonl filter=lfs diff=lfs merge=lfs -text
+./data/stage_2/retrieval_grpo_nocaptipn.jsonl
+data/docs/new_chunks/bge_vllm_embeddings_en_new/arxiv_image_embeds.pt filter=lfs diff=lfs merge=lfs -text
+./data/docs/new_chunks/bge_vllm_embeddings_en_new/arxiv_image_embeds.pt
+data/grpo/caption/nodim_captions_train.jsonl filter=lfs diff=lfs merge=lfs -text
+./data/grpo/caption/nodim_captions_train.jsonl
+data/grpo/caption/nodim_captions_train_and_test.jsonl filter=lfs diff=lfs merge=lfs -text
+./data/grpo/caption/nodim_captions_train_and_test.jsonl
+data/grpo/caption/9dim_captions_train.jsonl filter=lfs diff=lfs merge=lfs -text
+./data/grpo/caption/9dim_captions_train.jsonl
+data/grpo/caption/nodim_captions_train_and_test.json filter=lfs diff=lfs merge=lfs -text
+./data/grpo/caption/nodim_captions_train_and_test.json
+data/sft/mramg_train_withrag.jsonl filter=lfs diff=lfs merge=lfs -text
+./data/sft/mramg_train_withrag.jsonl
+data/sft/mramg_withrag_train.jsonl filter=lfs diff=lfs merge=lfs -text
+./data/sft/mramg_withrag_train.jsonl
+data/cold_start/retrieval_fix_nocaptipn.jsonl filter=lfs diff=lfs merge=lfs -text
+./data/cold_start/retrieval_fix_nocaptipn.jsonl
+data/cold_start/retrieval_fix_0captipn.jsonl filter=lfs diff=lfs merge=lfs -text
+./data/cold_start/retrieval_fix_0captipn.jsonl
+data/cold_start/retrieval_fix_9captipn.jsonl filter=lfs diff=lfs merge=lfs -text
+./data/cold_start/retrieval_fix_9captipn.jsonl
+data/cold_start/.ipynb_checkpoints/nodim_captions-checkpoint.jsonl filter=lfs diff=lfs merge=lfs -text
+./data/cold_start/.ipynb_checkpoints/nodim_captions-checkpoint.jsonl
