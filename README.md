@@ -1,4 +1,4 @@
-# OURMRAG: 
+# OURMRAG: Observation, Understanding, then Retrieval, Dynamic Multimodal RAG via LLM Reasoning
 
 ## Introduction
 
